@@ -37,7 +37,7 @@ docker build -t my-web-app:latest .
 http://localhost:8080
 
 
-![Browser](pics/Доступен_8080.jpeg)
+![Browser](./pics/Доступен_8080.jpeg)
 
 
 ## Docker Compose
@@ -61,4 +61,4 @@ docker compose up -d
 
 Скриншот работающего сервиса:
 
-![Docker Compose](pics/docker-compose.jpeg
+![Docker Compose](./pics/docker-compose.jpeg
