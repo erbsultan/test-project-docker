@@ -7,7 +7,7 @@
 
 ```html
 <h1>Hello from Erbol</h1>
-
+```
 Docker-образ собран на базе nginx:alpine.
 HTML-файл копируется в стандартный web-root nginx.
 
