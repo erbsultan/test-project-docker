@@ -61,4 +61,4 @@ docker compose up -d
 
 Скриншот работающего сервиса:
 
-![Docker Compose](./pics/docker-compose.jpeg
+![Docker Compose](./pics/docker_compose.jpeg
